@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+Allow: /login
+Allow: /register
+
+# Disallow private areas
+Disallow: /dashboard
+Disallow: /expenses
+Disallow: /income
+Disallow: /vendors
+Disallow: /documents
+Disallow: /reports
+Disallow: /tax-tidy
+Disallow: /settings
+
+# Sitemap location
+Sitemap: https://ledgerly.com/sitemap.xml
+
+# Crawl delay
+Crawl-delay: 1
+
