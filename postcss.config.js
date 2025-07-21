@@ -1,4 +1,4 @@
-import postcssOklabFunction from 'postcss-oklab-function';
+import postcssOklabFunction from 'postcss-oklab-function'
 import tailwindcss from 'tailwindcss';
 import autoprefixer from 'autoprefixer';
 
